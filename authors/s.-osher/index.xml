@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Osher | Stamatis Lefkimmiatis</title>
+    <link>/slefkimmiatis.github.io/authors/s.-osher/</link>
+      <atom:link href="/slefkimmiatis.github.io/authors/s.-osher/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Osher</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Stamatis Lefkimmiatis</copyright><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/slefkimmiatis.github.io/img/icon-192.png</url>
+      <title>S. Osher</title>
+      <link>/slefkimmiatis.github.io/authors/s.-osher/</link>
+    </image>
+    
+    <item>
+      <title>Nonlocal Structure Tensor Functionals for Image Regularization</title>
+      <link>/slefkimmiatis.github.io/publication/tci-2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/tci-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

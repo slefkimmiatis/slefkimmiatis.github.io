@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Stamatis Lefkimmiatis</title>
+    <link>/slefkimmiatis.github.io/tags/</link>
+      <atom:link href="/slefkimmiatis.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Stamatis Lefkimmiatis</copyright><lastBuildDate>Sun, 01 Dec 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/slefkimmiatis.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>/slefkimmiatis.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>Image reconstruction techniques; Inverse problems; Tomography; X-ray imaging; Algorithms; Image reconstruction; In vivo imaging; Phase contrast imaging; Reconstruction algorithms; Refractive index</title>
+      <link>/slefkimmiatis.github.io/tags/image-reconstruction-techniques-inverse-problems-tomography-x-ray-imaging-algorithms-image-reconstruction-in-vivo-imaging-phase-contrast-imaging-reconstruction-algorithms-refractive-index/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/tags/image-reconstruction-techniques-inverse-problems-tomography-x-ray-imaging-algorithms-image-reconstruction-in-vivo-imaging-phase-contrast-imaging-reconstruction-algorithms-refractive-index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complex coherence</title>
+      <link>/slefkimmiatis.github.io/tags/complex-coherence/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/tags/complex-coherence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microphone array</title>
+      <link>/slefkimmiatis.github.io/tags/microphone-array/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/tags/microphone-array/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noise reduction</title>
+      <link>/slefkimmiatis.github.io/tags/noise-reduction/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/tags/noise-reduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear</title>
+      <link>/slefkimmiatis.github.io/tags/nonlinear/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/tags/nonlinear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post-filter</title>
+      <link>/slefkimmiatis.github.io/tags/post-filter/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/tags/post-filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech enhancement</title>
+      <link>/slefkimmiatis.github.io/tags/speech-enhancement/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/tags/speech-enhancement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

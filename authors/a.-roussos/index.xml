@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Roussos | Stamatis Lefkimmiatis</title>
+    <link>/slefkimmiatis.github.io/authors/a.-roussos/</link>
+      <atom:link href="/slefkimmiatis.github.io/authors/a.-roussos/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Roussos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Stamatis Lefkimmiatis</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/slefkimmiatis.github.io/img/icon-192.png</url>
+      <title>A. Roussos</title>
+      <link>/slefkimmiatis.github.io/authors/a.-roussos/</link>
+    </image>
+    
+    <item>
+      <title>Structure Tensor Total Variation</title>
+      <link>/slefkimmiatis.github.io/publication/siam-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/siam-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convex Generalizations of Total Variation Based on the Structure Tensor with Applications to Inverse Problems</title>
+      <link>/slefkimmiatis.github.io/publication/ssvm-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/ssvm-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

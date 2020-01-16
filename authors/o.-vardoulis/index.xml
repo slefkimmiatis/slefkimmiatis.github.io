@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O. Vardoulis | Stamatis Lefkimmiatis</title>
+    <link>/slefkimmiatis.github.io/authors/o.-vardoulis/</link>
+      <atom:link href="/slefkimmiatis.github.io/authors/o.-vardoulis/index.xml" rel="self" type="application/rss+xml" />
+    <description>O. Vardoulis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Stamatis Lefkimmiatis</copyright><lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/slefkimmiatis.github.io/img/icon-192.png</url>
+      <title>O. Vardoulis</title>
+      <link>/slefkimmiatis.github.io/authors/o.-vardoulis/</link>
+    </image>
+    
+    <item>
+      <title>Improved Variational Denoising of Flow Fields with Application to Phase-Contrast MRI Data</title>
+      <link>/slefkimmiatis.github.io/publication/spl-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/spl-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

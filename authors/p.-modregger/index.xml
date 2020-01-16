@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Modregger | Stamatis Lefkimmiatis</title>
+    <link>/slefkimmiatis.github.io/authors/p.-modregger/</link>
+      <atom:link href="/slefkimmiatis.github.io/authors/p.-modregger/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Modregger</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Stamatis Lefkimmiatis</copyright><lastBuildDate>Sun, 01 Dec 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/slefkimmiatis.github.io/img/icon-192.png</url>
+      <title>P. Modregger</title>
+      <link>/slefkimmiatis.github.io/authors/p.-modregger/</link>
+    </image>
+    
+    <item>
+      <title>Constrained regularized reconstruction of X-ray-DPCI tomograms with weighted-norm</title>
+      <link>/slefkimmiatis.github.io/publication/oe-13/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/oe-13/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

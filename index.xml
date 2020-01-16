@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stamatis Lefkimmiatis</title>
+    <link>/slefkimmiatis.github.io/</link>
+      <atom:link href="/slefkimmiatis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stamatis Lefkimmiatis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Stamatis Lefkimmiatis</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/slefkimmiatis.github.io/img/icon-192.png</url>
+      <title>Stamatis Lefkimmiatis</title>
+      <link>/slefkimmiatis.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Microscopy Image Restoration with Deep Wiener-Kolmogorov filters</title>
+      <link>/slefkimmiatis.github.io/publication/arxiv-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/arxiv-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iterative Joint Image Demosaicking and Denoising Using a Residual Denoising Network</title>
+      <link>/slefkimmiatis.github.io/publication/tip-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/tip-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iterative Residual CNNs for Burst Photography Applications</title>
+      <link>/slefkimmiatis.github.io/publication/cvpr-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/cvpr-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal Denoising Networks : A Novel CNN Architecture for Image Denoising</title>
+      <link>/slefkimmiatis.github.io/publication/cvpr-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/cvpr-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Image Demosaicking Using a Cascade of Convolutional Residual Denoising Networks</title>
+      <link>/slefkimmiatis.github.io/publication/ecvv-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/ecvv-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Local Color Image Denoising With Convolutional Neural Networks</title>
+      <link>/slefkimmiatis.github.io/publication/cvpr-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/cvpr-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Computational Efficiency of Locally Low Rank MRI Reconstruction Using Iterative Random Patch Adjustments</title>
+      <link>/slefkimmiatis.github.io/publication/tmi-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/tmi-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Variational Denoising of Flow Fields with Application to Phase-Contrast MRI Data</title>
+      <link>/slefkimmiatis.github.io/publication/spl-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/spl-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlocal Structure Tensor Functionals for Image Regularization</title>
+      <link>/slefkimmiatis.github.io/publication/tci-2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/tci-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure Tensor Total Variation</title>
+      <link>/slefkimmiatis.github.io/publication/siam-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/siam-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constrained regularized reconstruction of X-ray-DPCI tomograms with weighted-norm</title>
+      <link>/slefkimmiatis.github.io/publication/oe-13/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/oe-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poisson Image Reconstruction With Hessian Schatten-Norm Regularization</title>
+      <link>/slefkimmiatis.github.io/publication/tip-2013-b/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/tip-2013-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hessian Schatten-Norm Regularization for Linear Inverse Problems</title>
+      <link>/slefkimmiatis.github.io/publication/tip-2013-a/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/tip-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convex Generalizations of Total Variation Based on the Structure Tensor with Applications to Inverse Problems</title>
+      <link>/slefkimmiatis.github.io/publication/ssvm-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/ssvm-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hessian-Based Norm Regularization for Image Restoration With Biomedical Applications</title>
+      <link>/slefkimmiatis.github.io/publication/tip-2012/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/tip-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Inference on Multiscale Models for Poisson Intensity Estimation: Applications to Photon-Limited Image Denoising</title>
+      <link>/slefkimmiatis.github.io/publication/tip-2009/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/tip-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A generalized estimation approach for linear and nonlinear microphone array post-filters</title>
+      <link>/slefkimmiatis.github.io/publication/sc-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/sc-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

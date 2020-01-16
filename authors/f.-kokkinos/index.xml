@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Kokkinos | Stamatis Lefkimmiatis</title>
+    <link>/slefkimmiatis.github.io/authors/f.-kokkinos/</link>
+      <atom:link href="/slefkimmiatis.github.io/authors/f.-kokkinos/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Kokkinos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Stamatis Lefkimmiatis</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/slefkimmiatis.github.io/img/icon-192.png</url>
+      <title>F. Kokkinos</title>
+      <link>/slefkimmiatis.github.io/authors/f.-kokkinos/</link>
+    </image>
+    
+    <item>
+      <title>Microscopy Image Restoration with Deep Wiener-Kolmogorov filters</title>
+      <link>/slefkimmiatis.github.io/publication/arxiv-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/arxiv-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iterative Joint Image Demosaicking and Denoising Using a Residual Denoising Network</title>
+      <link>/slefkimmiatis.github.io/publication/tip-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/tip-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Image Demosaicking Using a Cascade of Convolutional Residual Denoising Networks</title>
+      <link>/slefkimmiatis.github.io/publication/ecvv-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/ecvv-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

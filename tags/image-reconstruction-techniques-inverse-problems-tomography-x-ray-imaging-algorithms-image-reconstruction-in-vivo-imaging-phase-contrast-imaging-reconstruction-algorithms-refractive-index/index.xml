@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Image reconstruction techniques; Inverse problems; Tomography; X-ray imaging; Algorithms; Image reconstruction; In vivo imaging; Phase contrast imaging; Reconstruction algorithms; Refractive index | Stamatis Lefkimmiatis</title>
+    <link>/slefkimmiatis.github.io/tags/image-reconstruction-techniques-inverse-problems-tomography-x-ray-imaging-algorithms-image-reconstruction-in-vivo-imaging-phase-contrast-imaging-reconstruction-algorithms-refractive-index/</link>
+      <atom:link href="/slefkimmiatis.github.io/tags/image-reconstruction-techniques-inverse-problems-tomography-x-ray-imaging-algorithms-image-reconstruction-in-vivo-imaging-phase-contrast-imaging-reconstruction-algorithms-refractive-index/index.xml" rel="self" type="application/rss+xml" />
+    <description>Image reconstruction techniques; Inverse problems; Tomography; X-ray imaging; Algorithms; Image reconstruction; In vivo imaging; Phase contrast imaging; Reconstruction algorithms; Refractive index</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Stamatis Lefkimmiatis</copyright><lastBuildDate>Sun, 01 Dec 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/slefkimmiatis.github.io/img/icon-192.png</url>
+      <title>Image reconstruction techniques; Inverse problems; Tomography; X-ray imaging; Algorithms; Image reconstruction; In vivo imaging; Phase contrast imaging; Reconstruction algorithms; Refractive index</title>
+      <link>/slefkimmiatis.github.io/tags/image-reconstruction-techniques-inverse-problems-tomography-x-ray-imaging-algorithms-image-reconstruction-in-vivo-imaging-phase-contrast-imaging-reconstruction-algorithms-refractive-index/</link>
+    </image>
+    
+    <item>
+      <title>Constrained regularized reconstruction of X-ray-DPCI tomograms with weighted-norm</title>
+      <link>/slefkimmiatis.github.io/publication/oe-13/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/oe-13/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

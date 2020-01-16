@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Unser | Stamatis Lefkimmiatis</title>
+    <link>/slefkimmiatis.github.io/authors/m.-unser/</link>
+      <atom:link href="/slefkimmiatis.github.io/authors/m.-unser/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Unser</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Stamatis Lefkimmiatis</copyright><lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/slefkimmiatis.github.io/img/icon-192.png</url>
+      <title>M. Unser</title>
+      <link>/slefkimmiatis.github.io/authors/m.-unser/</link>
+    </image>
+    
+    <item>
+      <title>Improved Variational Denoising of Flow Fields with Application to Phase-Contrast MRI Data</title>
+      <link>/slefkimmiatis.github.io/publication/spl-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/spl-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure Tensor Total Variation</title>
+      <link>/slefkimmiatis.github.io/publication/siam-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/siam-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constrained regularized reconstruction of X-ray-DPCI tomograms with weighted-norm</title>
+      <link>/slefkimmiatis.github.io/publication/oe-13/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/oe-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poisson Image Reconstruction With Hessian Schatten-Norm Regularization</title>
+      <link>/slefkimmiatis.github.io/publication/tip-2013-b/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/tip-2013-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hessian Schatten-Norm Regularization for Linear Inverse Problems</title>
+      <link>/slefkimmiatis.github.io/publication/tip-2013-a/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/tip-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convex Generalizations of Total Variation Based on the Structure Tensor with Applications to Inverse Problems</title>
+      <link>/slefkimmiatis.github.io/publication/ssvm-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/ssvm-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hessian-Based Norm Regularization for Image Restoration With Biomedical Applications</title>
+      <link>/slefkimmiatis.github.io/publication/tip-2012/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/tip-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

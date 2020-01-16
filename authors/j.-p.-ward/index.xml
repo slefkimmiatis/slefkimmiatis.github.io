@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. P. Ward | Stamatis Lefkimmiatis</title>
+    <link>/slefkimmiatis.github.io/authors/j.-p.-ward/</link>
+      <atom:link href="/slefkimmiatis.github.io/authors/j.-p.-ward/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. P. Ward</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Stamatis Lefkimmiatis</copyright><lastBuildDate>Wed, 01 May 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/slefkimmiatis.github.io/img/icon-192.png</url>
+      <title>J. P. Ward</title>
+      <link>/slefkimmiatis.github.io/authors/j.-p.-ward/</link>
+    </image>
+    
+    <item>
+      <title>Hessian Schatten-Norm Regularization for Linear Inverse Problems</title>
+      <link>/slefkimmiatis.github.io/publication/tip-2013-a/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/tip-2013-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
