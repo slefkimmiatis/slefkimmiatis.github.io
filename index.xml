@@ -5,12 +5,20 @@
     <link>/slefkimmiatis.github.io/</link>
       <atom:link href="/slefkimmiatis.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Stamatis Lefkimmiatis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Stamatis Lefkimmiatis</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Stamatis Lefkimmiatis</copyright><lastBuildDate>Wed, 15 Jan 2020 07:43:10 +0000</lastBuildDate>
     <image>
       <url>/slefkimmiatis.github.io/img/icon-192.png</url>
       <title>Stamatis Lefkimmiatis</title>
       <link>/slefkimmiatis.github.io/</link>
     </image>
+    
+    <item>
+      <title>Maxwell Parallel Imaging</title>
+      <link>/slefkimmiatis.github.io/publication/mrm-2020/</link>
+      <pubDate>Wed, 15 Jan 2020 07:43:10 +0000</pubDate>
+      <guid>/slefkimmiatis.github.io/publication/mrm-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Microscopy Image Restoration with Deep Wiener-Kolmogorov filters</title>
